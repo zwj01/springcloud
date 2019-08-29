@@ -35,56 +35,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t11/MyThread.java">
+      <file leaf-file-name="Run2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/Run2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="325">
+              <caret line="13" column="70" lean-forward="true" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t11/Run.java">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="446">
+              <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BLStopThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/BLStopThread.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sun.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Sun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThreadA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MyThreadA.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="25" />
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BLStopThread2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/BLStopThread2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Run6.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/Run6.java">
+      <file leaf-file-name="MainRun.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MainRun.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Run5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/Run5.java">
+      <file leaf-file-name="MyThrea.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MyThrea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="375">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PublicVar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/dirtyread/PublicVar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -109,41 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zuul-server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/consume-ribbon/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/turbine-server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/turbine-server/pom.xml" />
-        <option value="$PROJECT_DIR$/turbine-server/src/main/java/com/soft/TurbineServerApplication.java" />
-        <option value="$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/ConsumerFeignApplication.java" />
-        <option value="$PROJECT_DIR$/server-common/pom.xml" />
-        <option value="$PROJECT_DIR$/server-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/client/FHelloClient.java" />
-        <option value="$PROJECT_DIR$/server-common/src/main/java/com/sofg/api/HelloTestApi.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/controller/HelloTest.java" />
-        <option value="$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/bean/SmallDto.java" />
-        <option value="$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/client/SmallClient.java" />
-        <option value="$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/client/hystrix/SmallClientService.java" />
-        <option value="$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/util/JsonUtils.java" />
-        <option value="$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/util/JsonMapper.java" />
-        <option value="$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/bean/ResponseModel.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/consumer-feign/pom.xml" />
-        <option value="$PROJECT_DIR$/consumer-feign/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyThread.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyThread1Test.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyThreadTest.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyThread1.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyRunable.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyRunableTest.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t3/MyThread.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t3/MyThread1.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t3/MyThreadTest.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t4/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t5/CountOperate.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t5/CountOperateTest.java" />
-        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t8/MyThread.java" />
         <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t8/Run.java" />
         <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t9/Test.java" />
         <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/MyThread.java" />
@@ -160,6 +161,41 @@
         <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/Run5.java" />
         <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/BLStopThread2.java" />
         <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/Run6.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/yield/Run.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/yield/MyThread.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/MyThread1.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/MyThread.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/Run.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t1/MyThread.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t1/MyThread1.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t1/Run.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t2/MyThreadA.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t2/MyThreadB.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t2/Run.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/daemon/MyThread.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/daemon/Run.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/block/HasSelfPrivateNum.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/block/thra.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/Thread1.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/Thread2.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/Run.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/TwoObjectTwoLock.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/HasSelfPrivateNum.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/ThreadA.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/ThreadB.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/MyObject.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/dirtyread/ThreadA.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/dirtyread/Run.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/dirtyread/PublicVar.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/Run2.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MyThread.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MyThrea.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Run.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Service.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MyThreadA.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Main.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Sun.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MainRun.java" />
       </list>
     </option>
   </component>
@@ -196,105 +232,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-provider" type="47feb1d3:ProjectViewModuleNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-provider" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-provider" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-provider" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-provider" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-provider" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="soft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-provider" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="soft" type="462c0819:PsiDirectoryNode" />
-              <item name="studyThread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-provider" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="soft" type="462c0819:PsiDirectoryNode" />
-              <item name="studyThread" type="462c0819:PsiDirectoryNode" />
-              <item name="t10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server-provider" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="soft" type="462c0819:PsiDirectoryNode" />
-              <item name="studyThread" type="462c0819:PsiDirectoryNode" />
-              <item name="t11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
               <item name="server-provider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
               <item name="server-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
               <item name="server-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -302,7 +261,6 @@
             </path>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
               <item name="server-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -311,7 +269,6 @@
             </path>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
               <item name="server-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -321,7 +278,6 @@
             </path>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
               <item name="server-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -332,7 +288,6 @@
             </path>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
               <item name="server-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -340,11 +295,10 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="soft" type="462c0819:PsiDirectoryNode" />
               <item name="studyThread" type="462c0819:PsiDirectoryNode" />
-              <item name="t10" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronize" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
               <item name="server-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -352,73 +306,39 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="soft" type="462c0819:PsiDirectoryNode" />
               <item name="studyThread" type="462c0819:PsiDirectoryNode" />
-              <item name="t11" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronize" type="462c0819:PsiDirectoryNode" />
+              <item name="block" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
               <item name="server-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="soft" type="462c0819:PsiDirectoryNode" />
+              <item name="studyThread" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronize" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
+              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="soft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-demo" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="spring-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="studyThread" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronize" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="synLockin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -428,7 +348,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../fmc-server" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -448,25 +369,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run6">
-    <configuration name="Run5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft.studyThread.t10.Run5" />
+  <component name="RunManager" selected="Application.MainRun">
+    <configuration name="MainRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft.studyThread.synchronize.method.synLockin.MainRun" />
       <module name="server-provider" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft.studyThread.t10.*" />
+          <option name="PATTERN" value="com.soft.studyThread.synchronize.method.synLockin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Run6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft.studyThread.t10.Run6" />
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft.studyThread.synchronize.method.synLockin.Run" />
       <module name="server-provider" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft.studyThread.t10.*" />
+          <option name="PATTERN" value="com.soft.studyThread.synchronize.method.synLockin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft.studyThread.synchronize.method.dirtyread.Run" />
+      <module name="server-provider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft.studyThread.synchronize.method.dirtyread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Run2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft.studyThread.synchronize.method.Run2" />
+      <module name="server-provider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft.studyThread.synchronize.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TwoObjectTwoLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft.studyThread.synchronize.method.TwoObjectTwoLock" />
+      <module name="server-provider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft.studyThread.synchronize.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -494,29 +448,9 @@
       <module name="consume-ribbon" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.soft.ConsumeRibbonApplication" />
     </configuration>
-    <configuration name="ConsumerFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="consumer-feign" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.soft.ConsumerFeignApplication" />
-    </configuration>
     <configuration name="ServerCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="server-common" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.sofg.ServerCommonApplication" />
-    </configuration>
-    <configuration name="ServerProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="server-provider" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.soft.ServerProviderApplication" />
     </configuration>
     <configuration name="TurbineServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="turbine-server" />
@@ -525,16 +459,6 @@
     <configuration name="ZipkinClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="zipkin-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.soft.ZipkinClientApplication" />
-    </configuration>
-    <configuration name="ZuulServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="zuul-server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.soft.ZuulServerApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -563,19 +487,19 @@
       <item itemvalue="Spring Boot.TurbineServerApplication" />
       <item itemvalue="Spring Boot.ServerCommonApplication" />
       <item itemvalue="Spring Boot.ZipkinClientApplication" />
-      <item itemvalue="Spring Boot.ServerProviderApplication" />
-      <item itemvalue="Spring Boot.ZuulServerApplication" />
-      <item itemvalue="Spring Boot.ConsumerFeignApplication" />
-      <item itemvalue="Application.Run5" />
-      <item itemvalue="Application.Run6" />
+      <item itemvalue="Application.TwoObjectTwoLock" />
+      <item itemvalue="Application.Run2" />
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.Run (1)" />
+      <item itemvalue="Application.MainRun" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run6" />
-        <item itemvalue="Application.Run5" />
-        <item itemvalue="Spring Boot.ConsumerFeignApplication" />
-        <item itemvalue="Spring Boot.ZuulServerApplication" />
-        <item itemvalue="Spring Boot.ServerProviderApplication" />
+        <item itemvalue="Application.MainRun" />
+        <item itemvalue="Application.Run (1)" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Run2" />
+        <item itemvalue="Application.TwoObjectTwoLock" />
       </list>
     </recent_temporary>
   </component>
@@ -601,11 +525,12 @@
       <workItem from="1566265201204" duration="8653000" />
       <workItem from="1566373348860" duration="6299000" />
       <workItem from="1566891720692" duration="22662000" />
+      <workItem from="1567042392350" duration="13801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71580000" />
+    <option name="totallyTimeSpent" value="85381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -628,13 +553,14 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.343852" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36996734" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2675906" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27025586" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -642,7 +568,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -651,254 +576,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/TwoObjectTwoLock.java</url>
+          <line>12</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/client/hystrix/HelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/client/hystrix/SmallClientService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/client/SmallClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/util/JsonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/util/JsonMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/bean/ResponseModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="94" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/com/soft/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1116#1117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="824">
-          <caret line="89" column="11" lean-forward="true" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyThread1Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyRunable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/MyRunableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t3/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="23" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t3/MyThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t3/MyThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t4/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t5/CountOperateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t8/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t8/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t5/CountOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t9/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="910" column="16" selection-start-line="910" selection-start-column="16" selection-end-line="910" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/Run2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/SleepStopThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="17" column="100" selection-start-line="17" selection-start-column="100" selection-end-line="17" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/Run3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/Run4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/MyThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/ThreadStop">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -919,9 +609,6 @@
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/zuul-server/src/main/java/com/soft/ZuulServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -944,21 +631,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zipkin-client/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/zipkin-client/src/main/java/com/soft/ZipkinClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zipkin-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/server-provider/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -984,21 +662,21 @@
     <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t11/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t11/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/t10/Run5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1020,6 +698,263 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/yield/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/yield/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="75" lean-forward="true" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t1/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t2/MyThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t1/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t2/MyThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/priority/t2/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/daemon/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/啊啊.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/daemon/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/block/thra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/Thread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/Thread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/TwoObjectTwoLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/HasSelfPrivateNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/dirtyread/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/dirtyread/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/dirtyread/PublicVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/Run2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="70" lean-forward="true" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MyThrea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MyThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/Sun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/soft/studyThread/synchronize/method/synLockin/MainRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
         </state>
       </provider>
     </entry>

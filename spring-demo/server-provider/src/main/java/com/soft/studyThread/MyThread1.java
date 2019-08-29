@@ -22,7 +22,7 @@ public class MyThread1 extends Thread {
                 int time = (int) (Math.random() * 1000);
 
                 Thread.sleep(time);
-                System.out.println("run=" + Thread.currentThread().getName()+",i="+i);//获取线程名称
+                System.out.println("Run=" + Thread.currentThread().getName()+",i="+i);//获取线程名称
             }
         } catch (InterruptedException e) {
             e.printStackTrace();
